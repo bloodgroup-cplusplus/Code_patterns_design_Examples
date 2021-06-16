@@ -1,6 +1,6 @@
 # Code_patterns_design_Examples
 This repository includes few of the C++ Programming:Code patterns design
-the original file is taken from https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns
+the original file is: https://en.wikibooks.org/wiki/C%2B%2B_Programming/Code/Design_Patterns
 
 THE CODES ARE PRESENT IN THE REPOSITORY AS RESPECTIVE CPP FILES
 
